@@ -9,11 +9,11 @@ Developed by th using Fast. An Extension To Record Background Video Without Open
 
 ## 📝 Specifications
 * **
-💾 **Size:** 10.72 KB
-⚙️ **Version:** 1.0
-📱 **Minimum API Level:** 7
-📅 **Updated On:** [date=2025-02-10 timezone="Asia/Calcutta"]
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)
+💾 **Size:** 10.72 KB<br>
+⚙️ **Version:** 1.0<br>
+📱 **Minimum API Level:** 7<br>
+📅 **Updated On:** [date=2025-02-10 timezone="Asia/Calcutta"]<br>
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br><br>
 
 ## <kbd>Events:</kbd>
 **BackgroundVideoRecorder** has total 5 events.
