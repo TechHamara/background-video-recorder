@@ -21,9 +21,19 @@ Developed by th using Fast. An Extension To Record Background Video Without Open
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
 <br>
 ## Buy In PayPal
+  [💛paypal here](https://www.paypal.com/ncp/payment/P6VTC9YXC5YFG)
 
-![paypal](https://github.com/user-attachments/assets/5cc03557-58a9-4443-bf29-ade8bafe0abb)
 <br>
+## Demo
+Capture photo
+
+![photo_2025-02-26_10-23-03](https://github.com/user-attachments/assets/d65733b0-ebb2-4bfb-a4aa-063a1b9adc46)
+<br>
+Video
+
+https://github.com/user-attachments/assets/1cf0bf4a-27fa-4294-b135-3f95ab031fb2
+https://youtube.com/shorts/dHxu4c-wsmw?si=svs0sNtfDolZx1Gj
+
 <br>
 
 ## <kbd>Events:</kbd>
@@ -162,6 +172,9 @@ Captures a photo and saves it to the provided file path.
 ![LastCapturedPhotoFilePathBlock](https://github.com/user-attachments/assets/788450e3-f644-4366-a59c-8d0b73caf788)
 ### 💜 LastCapturedPhotoFilePath
 Returns the file path of the last captured photo.
+
+## PayPal QR Code
+  ![paypal](https://github.com/user-attachments/assets/5cc03557-58a9-4443-bf29-ade8bafe0abb)
 
 ### Thanks
     TechHamara
