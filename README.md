@@ -9,14 +9,31 @@ Developed by th using Fast. An Extension To Record Background Video Without Open
 
 ## 📝 Specifications
 * **
-💾 **Size:** 10.72 KB<br>
+💾 **Size:** 12.24 KB<br>
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
-📅 **Updated On:** [date=2025-02-10 timezone="Asia/Calcutta"]<br>
+📅 **Updated On:** [date=2025-02-25 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br><br>
 
 ## <kbd>Events:</kbd>
-**BackgroundVideoRecorder** has total 5 events.
+**BackgroundVideoRecorder** has total 9 events.
+
+![FrontCameraSelectedBlock](https://github.com/user-attachments/assets/4c42574f-2902-452e-a824-6185a04f68ab)
+### 💛 FrontCameraSelected
+Event triggered when front camera is selected.
+
+![BackCameraSelectedBlock](https://github.com/user-attachments/assets/3d83000e-ab6b-4215-96c7-d31abded4cd6)
+### 💛 BackCameraSelected
+Event triggered when back camera is selected.
+
+
+![VideoRecordingPausedBlock](https://github.com/user-attachments/assets/2ed5e490-42c8-4c70-942b-4bfaff7cc0cd)
+### 💛 VideoRecordingPaused
+Event triggered when video recording has been paused.
+
+![VideoRecordingResumedBlock](https://github.com/user-attachments/assets/afbc5e39-e198-4ce3-a497-50851e0d34a3)
+### 💛 VideoRecordingResumed
+Event triggered when video recording has been resumed.
 
 ![PhotoCapturedBlock](https://github.com/user-attachments/assets/cb05c6c7-a1a3-4df2-954b-66ad8aa38b1d)
 ### 💛 PhotoCaptured
@@ -56,7 +73,7 @@ Event triggered when an error occurs during video recording. and message A messa
 | message | text
 
 ## <kbd>Methods:</kbd>
-**BackgroundVideoRecorder** has total 10 methods.
+**BackgroundVideoRecorder** has total 13 methods.
 
 ![StartRecordingBlock](https://github.com/user-attachments/assets/1a79209b-d404-492c-b7a1-2659a1641d46)
 ### 💜 StartRecording
@@ -81,8 +98,21 @@ Starts video recording in the background with custom parameters and enhanced qua
 ### 💜 StopRecording
 Stops background video recording.
 
-![StartRecordingHighQualityBlock](https://github.com/user-attachments/assets/b280c4a7-742b-4575-977d-2f867c83cf7a)
-### 💜 StartRecordingHighQuality
+![FrontCameraBlock](https://github.com/user-attachments/assets/70bcf276-b5f9-45de-8568-b8e9ff265426)
+### 💜 FrontCamera
+Sets the camera to use the front-facing camera if available.
+
+![BackCameraBlock](https://github.com/user-attachments/assets/6669d318-e233-4eed-b38c-eeeb4b782627)
+### 💜 BackCamera
+Sets the camera to use the back-facing camera if available.
+
+![IsFrontCameraBlock](https://github.com/user-attachments/assets/d40e2484-713e-4ee2-9e34-c00c8c17d1fc)
+### 💜 IsFrontCamera
+Returns true if the front camera is currently selected.
+
+
+![StartRecordingFHD1080PBlock](https://github.com/user-attachments/assets/c344f83a-38e6-4385-b997-2289ab1fec3e)
+### 💜 StartRecordingFHD1080P
 Starts high quality background video recording with preset parameters (1920x1080, 60 fps, 6Mbps video bitrate, 128Kbps audio bitrate).
 * filePath - The full path (including file name) where the recorded video will be saved.
 
