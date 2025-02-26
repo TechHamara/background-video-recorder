@@ -13,7 +13,18 @@ Developed by th using Fast. An Extension To Record Background Video Without Open
 ⚙️ **Version:** 1.0<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-02-25 timezone="Asia/Calcutta"]<br>
-💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br><br>
+💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br>
+<br>
+**Paid** Price - 2💲 USD.
+  INR - 175rs.<br>
+**Telegram:** [here](https://t.me/techhamara91)<br>
+**Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
+<br>
+## Buy In PayPal
+
+![paypal](https://github.com/user-attachments/assets/5cc03557-58a9-4443-bf29-ade8bafe0abb)
+<br>
+<br>
 
 ## <kbd>Events:</kbd>
 **BackgroundVideoRecorder** has total 9 events.
