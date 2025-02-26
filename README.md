@@ -31,8 +31,11 @@ Capture photo
 <br>
 Video
 
-https://github.com/user-attachments/assets/1cf0bf4a-27fa-4294-b135-3f95ab031fb2
+[![Watch the video](https://img.youtube.com/vi/zh83YI9hO7c/0.jpg)](https://youtu.be/zh83YI9hO7c)
+
 https://youtube.com/shorts/dHxu4c-wsmw?si=svs0sNtfDolZx1Gj
+<br>
+https://youtu.be/zh83YI9hO7c
 
 <br>
 
