@@ -10,7 +10,7 @@ Developed by th using Fast. An Extension To Record Background Video Without Open
 ## 📝 Specifications
 * **
 💾 **Size:** 12.24 KB<br>
-⚙️ **Version:** 1.0<br>
+⚙️ **Version:** 1.1<br>
 📱 **Minimum API Level:** 7<br>
 📅 **Updated On:** [date=2025-02-25 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br>
@@ -20,6 +20,12 @@ Developed by th using Fast. An Extension To Record Background Video Without Open
 **Telegram:** [here](https://t.me/techhamara91)<br>
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
 <br>
+
+## Update Smmury
+> Updated on 2025-03-04<br>
+> V1.1 front facing camera bug fixed.
+
+ 
 ## Buy In PayPal
   [💛paypal here](https://www.paypal.com/ncp/payment/P6VTC9YXC5YFG)
 
