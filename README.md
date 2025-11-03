@@ -15,7 +15,7 @@ Developed by th using Fast. An Extension To Record Background Video Without Open
 📅 **Updated On:** [date=2025-02-25 timezone="Asia/Calcutta"]<br>
 💻 **Built & documented using:** [FAST-CLI](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel)<br>
 <br>
-**Paid** Price - 2💲 USD.
+**Paid** Price - 2💲 USD. [PayPal](https://www.paypal.com/ncp/payment/8FY9QMHP77XQN) 
   INR - 175rs.<br>
 **Telegram:** [here](https://t.me/techhamara91)<br>
 **Find** more Extension [here](https://github.com/TechHamara/Th_Free_Extensions)<br>
@@ -183,7 +183,7 @@ Captures a photo and saves it to the provided file path.
 Returns the file path of the last captured photo.
 
 ## PayPal QR Code
-  ![paypal](https://github.com/user-attachments/assets/5cc03557-58a9-4443-bf29-ade8bafe0abb)
+[PayPal](https://www.paypal.com/ncp/payment/8FY9QMHP77XQN) 
 
 ### Thanks
     TechHamara
