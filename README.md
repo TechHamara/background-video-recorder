@@ -29,8 +29,9 @@ Developed by th using Fast. An Extension To Record Background Video Without Open
 ## Buy In PayPal
   [💛paypal here](https://www.paypal.com/ncp/payment/P6VTC9YXC5YFG)
 
-<br>
-## Demo
+## Buy on [BeuyMeCoffee](https://buymeacoffee.com/techhamara/e/487562)
+
+<brPayPalDemo
 Capture photo
 
 ![photo_2025-02-26_10-23-03](https://github.com/user-attachments/assets/d65733b0-ebb2-4bfb-a4aa-063a1b9adc46)
